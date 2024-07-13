@@ -1,7 +1,8 @@
 # .NET Core
 bin/
 obj/
-/DB
+DB/
+Migrations/
 *.dll
 *.pdb
 *.exe
