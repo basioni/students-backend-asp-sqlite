@@ -1,0 +1,6 @@
+@students_backend_asp_sqlite_HostAddress = http://localhost:5186
+
+GET {{students_backend_asp_sqlite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
